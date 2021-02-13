@@ -3,20 +3,24 @@
 
 Awesome Software & Hardware tools for Traktor users. Windows & Mac. Hardware Controller Mods for Native Instruments S8/S5/D2/Z1/Z2/X1.
 
-## Taktor Control Screen Mods
+
+## NATIVE INSTRUMENTS S8 CONTROLLER & SCREEN DISPLAY MODS
 
 * **https://github.com/ErikMinekus/traktor-kontrol-screens**  
 Display modifications for the Traktor Kontrol S8/S5/D2. 3 different S8 screen mods.   
 [Kontrol Edition](https://github.com/ErikMinekus/traktor-kontrol-screens/tree/master) - [Nexus Edition](https://github.com/ErikMinekus/traktor-kontrol-screens/tree/nexus) - [Prime Edition](https://github.com/ErikMinekus/traktor-kontrol-screens/tree/prime)
-
-
+![](https://camo.githubusercontent.com/58d82e0c160a7b389303376b0868472da68db6a5ffd0fd9cc1f3b9ae94341b3e/68747470733a2f2f4572696b4d696e656b75732e6769746875622e696f2f7472616b746f722d6b6f6e74726f6c2d73637265656e732f6e657875732f747261636b2d6465636b2d6d61737465722e6a7067)
+![](https://camo.githubusercontent.com/07462c983cc80255f5a67a60ab3981a8bb401f571632757a74ca9cd417a34b35/68747470733a2f2f4572696b4d696e656b75732e6769746875622e696f2f7472616b746f722d6b6f6e74726f6c2d73637265656e732f6e657875732f747261636b2d6465636b2d73796e632e6a7067)
 
 
 * **https://github.com/kokernutz/traktor-kontrol-screens**  
 Replacement screens for the Native Instruments Traktor Kontrol D2, S5, and S8
-
+![https://user-images.githubusercontent.com/757885/47607125-e35e1000-d9e9-11e8-8005-36d73a504fa6.jpeg](https://user-images.githubusercontent.com/757885/47607125-e35e1000-d9e9-11e8-8005-36d73a504fa6.jpeg)
+![https://user-images.githubusercontent.com/757885/47607126-e6f19700-d9e9-11e8-95cd-b26d9b72ca34.jpeg
+](https://user-images.githubusercontent.com/757885/47607126-e6f19700-d9e9-11e8-95cd-b26d9b72ca34.jpeg
+)
 ## Playlists / Tracklists / Publishing / Streaming
-* <a href="https://github.com/erikrichardlarson/unbox" target="_blank">unbox - rekordbox / Serato / Traktor "Now Playing" overlays for Twitch / OBS</a>     
+* https://github.com/erikrichardlarson/unbox
 Display your current or recent rekordbox / serato / traktor tracks to your viewers on Twitch. Inspired by PRACT OBS and ASOT.
 
 * https://github.com/ewenme/tracklister  
@@ -50,18 +54,17 @@ A command-line app for converting data files to and from different DJ software f
 
 
 ## Traktor Stems
-* https://www.stems-music.com/stem-creator-tool/
-Native Instruments stem creation tool.
+* https://www.stems-music.com/stem-creator-tool/   
+**Stem Creator** - Native Instruments stem creation tool.
 
-* https://github.com/dj-nuo/nuo-stems
-NUO-STEMS is software which lets you convert your existing MP3/WAV tracks to .STEM tracks which are used by Traktor Pro DJ software. .STEM tracks consist of 4 parts:
+* https://github.com/dj-nuo/nuo-stems  
+**NUO-STEMS** - software which lets you convert your existing MP3/WAV tracks to .STEM tracks which are used by Traktor Pro DJ software. .STEM tracks consist of 4 parts:
 
-* https://github.com/axeldelafosse/stemgen
-Make stems with 1 command
-Stemgen is a Stem file generator. Convert any track into a Stem and have fun with Traktor.  Stemgen uses spleeter to separate the 4 stems and ni-stem to create the Stem file.
+* https://github.com/axeldelafosse/stemgen   
+**stemgen** - Make stems with 1 command. Stemgen is a Stem file generator. Convert any track into a Stem and have fun with Traktor.  Stemgen uses spleeter to separate the 4 stems and ni-stem to create the Stem file.
 
-* https://github.com/boy1dr/SpleeterGui
-Windows Desktop Front end for Spleeter - AI source separation
+* https://github.com/boy1dr/SpleeterGui  
+**SpleeterGui** - Windows Desktop Front end for Spleeter - AI source separation
 
 
 
@@ -74,4 +77,5 @@ Windows Desktop Front end for Spleeter - AI source separation
 
 * https://github.com/TakTraum/cmdr  
 **cmdr** - Unofficial TSI editor for Native Instruments' Traktor Pro.
+
 
